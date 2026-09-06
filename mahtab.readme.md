@@ -1,2 +1,3 @@
-1. i used (pyttsx3) this library
-2. i have craeted band name generator 
+1. text to voice 
+2. band name generator
+3. tip calculator
