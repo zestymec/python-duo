@@ -4,4 +4,5 @@
 4. discount calculator 
 5. cricket game
 6. calculator
-7. function 
+8. electricity bill generator
+9. 
